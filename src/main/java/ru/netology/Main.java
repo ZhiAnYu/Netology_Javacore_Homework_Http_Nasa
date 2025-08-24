@@ -12,7 +12,7 @@ import java.io.FileOutputStream;
 import java.io.IOException;
 
 public class Main {
-    public static final String URL = "https://api.nasa.gov/planetary/apod?api_key=2NMlQWC3dTrUXZiNtrY1qah9l6NxIJgbwCYWnAPb";
+    public static final String URL = "https://api.nasa.gov/planetary/apod?api_key=XXXXXXXXXXXXXX";
     public static ObjectMapper mapper = new ObjectMapper();
 
     public static void main(String[] args) {
